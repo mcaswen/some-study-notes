@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "6e3e107fa757b994",
+    "type": "split",
+    "children": [
+      {
+        "id": "19f1520c9877d269",
+        "type": "tabs",
+        "dimension": 54.557761732851986,
+        "children": [
+          {
+            "id": "eff7e66e7136975e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B站 鱼香肉丝 UE5 C++ 全流程开发从入门到进阶/6. Actor 生命周期函数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6. Actor 生命周期函数"
+            }
+          },
+          {
+            "id": "9a4ed8df915cccca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B站 鱼香肉丝 UE5 C++ 全流程开发从入门到进阶/1. 课程大纲.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. 课程大纲"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "db47c32e2ec996aa",
+        "type": "tabs",
+        "dimension": 45.442238267148014,
+        "children": [
+          {
+            "id": "410e8f00094ca581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B站 tt脑丝 《虚幻引擎》游戏制作教程 入门篇/1. 基本操作.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. 基本操作"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0fee580dba5f4523",
+    "type": "split",
+    "children": [
+      {
+        "id": "375d006002d22fb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "196ebac7fe3edb6b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "4ca0e4e9b611b0a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "003b373f47b1912e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b0518575c701c429",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a1424c5dfeac432",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c99aa0bd39b32544",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "B站 原子之音 C++游戏开发入门/课程大纲.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "课程大纲 的反向链接列表"
+            }
+          },
+          {
+            "id": "81b53eb1ca49d051",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "B站 原子之音 C++游戏开发入门/课程大纲.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "课程大纲 的出链列表"
+            }
+          },
+          {
+            "id": "74e7371c0e8ae4ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "1dbaa565a044a027",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "B站 原子之音 C++游戏开发入门/课程大纲.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "课程大纲 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9a4ed8df915cccca",
+  "lastOpenFiles": [
+    "B站 鱼香肉丝 UE5 C++ 全流程开发从入门到进阶/2. UBT 与 UHT.md",
+    "B站 鱼香肉丝 UE5 C++ 全流程开发从入门到进阶/3. 各个头文件的来源与作用.md",
+    "B站 鱼香肉丝 UE5 C++ 全流程开发从入门到进阶/4. UE5 中的反射机制.md",
+    "B站 鱼香肉丝 UE5 C++ 全流程开发从入门到进阶/6. Actor 生命周期函数.md",
+    "B站 鱼香肉丝 UE5 C++ 全流程开发从入门到进阶/7.日志打印.md",
+    "B站 鱼香肉丝 UE5 C++ 全流程开发从入门到进阶/8. 基本变量类型.md",
+    "B站 鱼香肉丝 UE5 C++ 全流程开发从入门到进阶/9. TArray.md",
+    "B站 鱼香肉丝 UE5 C++ 全流程开发从入门到进阶/10. TMap.md",
+    "B站 鱼香肉丝 UE5 C++ 全流程开发从入门到进阶/11. TSet.md",
+    "B站 鱼香肉丝 UE5 C++ 全流程开发从入门到进阶/5. GameMode.md",
+    "B站 鱼香肉丝 UE5 C++ 全流程开发从入门到进阶/1. 课程大纲.md",
+    "B站 tt脑丝 《虚幻引擎》游戏制作教程 入门篇/1. 基本操作.md",
+    "B站 tt脑丝 《虚幻引擎》游戏制作教程 入门篇/2. 目录结构说明.md",
+    "B站 tt脑丝 《虚幻引擎》游戏制作教程 入门篇/3. 引擎基础概念.md",
+    "Unreal Fest/漫威争锋 GAS 战斗框架解决方案.md",
+    "未命名 1.base",
+    "未命名.base",
+    "未命名.canvas",
+    "README.md",
+    "2025-08-23.md",
+    "未命名",
+    "Unreal Fest",
+    "未命名.md",
+    "B站 原子之音 C++游戏开发入门/1. 课程大纲.md",
+    "B站 tt脑丝 《虚幻引擎》游戏制作教程 入门篇",
+    "B站 鱼香肉丝 UE5 C++ 全流程开发从入门到进阶",
+    "LICENSE",
+    "B站 原子之音 C++游戏开发入门",
+    "欢迎.md"
+  ]
+}

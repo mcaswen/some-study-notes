@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "d2787d539a286cc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "780c2e6bfc597d15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "448ab40146968204",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第3章 引擎动画框架.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第3章 引擎动画框架"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b988c573348483e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d51ab6f7f1064be6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f681684b53582a61",
+    "type": "split",
+    "children": [
+      {
+        "id": "beb63c84854d3f22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2c8c765cf2ebd1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6f80ac390a21fff0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "9834b1992e2d98bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d1985c80aea0b392",
+    "type": "split",
+    "children": [
+      {
+        "id": "eee171478c06470e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db835026f28ccbc5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "第一章 小记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "第一章 小记 的反向链接列表"
+            }
+          },
+          {
+            "id": "5c8529a1e679dce6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "第一章 小记.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "第一章 小记 的出链列表"
+            }
+          },
+          {
+            "id": "a5fc0f9fb1339e57",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "12c02c70b6b1fddd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "ffb97fdbac406d0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "第一章 小记.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "第一章 小记 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "448ab40146968204",
+  "lastOpenFiles": [
+    "第2章 引擎基础知识.md",
+    "第3章 引擎动画框架.md",
+    "第1章 游戏引擎概述.md",
+    "引擎的模块结构.md",
+    "第一章 小记.md",
+    "欢迎.md"
+  ]
+}

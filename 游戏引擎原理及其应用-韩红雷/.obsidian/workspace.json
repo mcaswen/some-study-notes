@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "3f210f587e3bba7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7765a2462970a82",
+        "type": "tabs",
+        "dimension": 61.05417276720352,
+        "children": [
+          {
+            "id": "7d1871ca27635f82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第1章 游戏引擎基础/理论课/1.1 概述.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1 概述"
+            }
+          },
+          {
+            "id": "9d129287dab168d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第2章 动画系统/理论课/2.4 Ik 逆向运动学.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.4 Ik 逆向运动学"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2b652f4b83f48944",
+        "type": "tabs",
+        "dimension": 38.94582723279649,
+        "children": [
+          {
+            "id": "225188b7049aec8c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f99f8dc62c13189d",
+    "type": "split",
+    "children": [
+      {
+        "id": "073bdacaa7cec962",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b9084638bb8761d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "0448a9817fe689a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2e721309bf7b4a77",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "89e07d69109b09de",
+    "type": "split",
+    "children": [
+      {
+        "id": "14b2e2ac13560241",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c540152c1d718117",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "欢迎.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "欢迎 的反向链接列表"
+            }
+          },
+          {
+            "id": "fdafa2e091e75aba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "ed3684d8410b907b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ad1bbc1e47cc2d5a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "欢迎 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "9d129287dab168d5",
+  "lastOpenFiles": [
+    "第8章 人工智能/8.3 机器学习.md",
+    "第8章 人工智能/8.2 智能行为实现.md",
+    "第8章 人工智能/8.1 自动寻路.md",
+    "第8章 人工智能",
+    "第7章 物理系统/7.5 浮力效果.md",
+    "第7章 物理系统/7.4 碰撞事件.md",
+    "第7章 物理系统/7.3 链接结构.md",
+    "第7章 物理系统/7.2 典型物理效果模拟.md",
+    "第7章 物理系统/7.1 物理引擎基础.md",
+    "第7章 物理系统",
+    "第4章 特效系统/4.2 粒子系统.md",
+    "第4章 特效系统/4.1 视频播放.md",
+    "第4章 特效系统",
+    "第3章 渲染系统/实践课/游戏物体外观.md",
+    "第3章 渲染系统/实践课",
+    "第14章 性能优化/理论课/14.4 渲染优化.md",
+    "第14章 性能优化/理论课/14.3 内存管理.md",
+    "第14章 性能优化/理论课/14.2 代码优化.md",
+    "第14章 性能优化/理论课/14.1 性能审查.md",
+    "第14章 性能优化/理论课",
+    "第14章 性能优化",
+    "第12章 影视内容创作/12.4 Cinemachine.md",
+    "第12章 影视内容创作/12.3 脚本控制.md",
+    "第12章 影视内容创作/12.2 动画.md",
+    "第12章 影视内容创作/12.1 时间轴.md",
+    "第12章 影视内容创作",
+    "第2章 动画系统/理论课/2.3 动画曲线 & 层.md",
+    "第2章 动画系统/理论课/2.4 Ik 逆向运动学.md",
+    "第2章 动画系统/理论课/2.5 子状态机  融合树 目标匹配.md",
+    "第2章 动画系统/实践课/动画控制.md",
+    "第3章 渲染系统/理论课/3.7 全局光照系统 GI.md",
+    "第2章 动画系统/理论课/2.2 骨骼动画.md",
+    "第2章 动画系统/理论课/2.1 场景动画.md",
+    "第2章 动画系统/实践课",
+    "第3章 渲染系统/理论课",
+    "第3章 渲染系统",
+    "未命名.canvas"
+  ]
+}
