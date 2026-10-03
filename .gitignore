@@ -1,0 +1,48 @@
+# 编辑器与笔记工具的本地配置（适用于所有子目录）
+.vscode/
+.obsidian/
+.vs/
+.idea/
+
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# 编译输出目录
+Compile/
+out
+build/
+cmake-build-*/
+
+# C/C++ 编译与链接产物
+*.o
+*.obj
+*.exe
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+*.pdb
+*.ilk
+*.idb
+*.exp
+*.pch
+*.gch
+
+# CMake 生成的文件与缓存
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+compile_commands.json
+
+# 保留 C&C++ 子项目原有的数据文件忽略范围
+/C&C++/**/*.data
+
+# 编辑器临时文件与备份
+*.swp
+*.swo
+*~

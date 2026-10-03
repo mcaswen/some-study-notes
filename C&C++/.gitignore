@@ -1,6 +1,0 @@
-/Compile
-*.data
-#.vscode
-*.obj
-out
-.DS_Store
